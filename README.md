@@ -10,7 +10,7 @@
       <th>역할 및 개발분야</th>
       <th>이름</th>
       <th>전공</th>
-      <th>이메일</th>
+ 
     </tr>
   </thead>
   <tbody>
@@ -18,7 +18,7 @@
       <td>Member, BE</td>
       <td>남민주</td>
       <td>컴퓨터공학전공</td>
-      <td><a href="mailto:nampink2300@gmail.com">nampink2300@gmail.com</a></td>
+ 
     </tr>
   </tbody>
 </table>
