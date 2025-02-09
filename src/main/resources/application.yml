@@ -1,0 +1,23 @@
+spring:
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        ddl-auto: create-drop
+        format_sql: true
+    defer-datasource-initialization: true
+  datasource:
+    url: jdbc:h2:mem:testdb
+  security:
+    user:
+      password: 1
+      #임시 비번 생성 막기
+
+  h2:
+    console:
+      enabled: true
+
+jwt:
+  secret-key: sivknhaknhckjshvbjfshjbhkfshvfsdbfkvbskvajlsnshbjhvksdhnkvfhsdk
+  expiration-hours: 100
+  issuer: igloo
