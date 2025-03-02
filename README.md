@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Member, BE</td>
+      <td>Member, BE,FE</td>
       <td>남민주</td>
       <td>컴퓨터공학전공</td>
       <td><a href="mailto:nampink2300@gmail.com">nampink2300@gmail.com</a></td>
